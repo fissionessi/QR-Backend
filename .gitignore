@@ -1,0 +1,4 @@
+node_modules/
+*.log
+QR-Backend.pem
+QR-Backendppk
